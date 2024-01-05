@@ -1,0 +1,17 @@
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\obj\Debug\net7.0\SocialMedia.Services.csproj.AssemblyReference.cache
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\obj\Debug\net7.0\SocialMedia.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\obj\Debug\net7.0\SocialMedia.Services.AssemblyInfoInputs.cache
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\obj\Debug\net7.0\SocialMedia.Services.AssemblyInfo.cs
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\obj\Debug\net7.0\SocialMedia.Services.csproj.CoreCompileInputs.cache
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\bin\Debug\net7.0\SocialMedia.Services.deps.json
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\bin\Debug\net7.0\SocialMedia.Services.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\bin\Debug\net7.0\SocialMedia.Services.pdb
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\bin\Debug\net7.0\SocialMedia.Data.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\bin\Debug\net7.0\SocialMedia.Models.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\bin\Debug\net7.0\SocialMedia.Models.pdb
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\bin\Debug\net7.0\SocialMedia.Data.pdb
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\obj\Debug\net7.0\SocialMedia.Services.csproj.CopyComplete
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\obj\Debug\net7.0\SocialMedia.Services.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\obj\Debug\net7.0\refint\SocialMedia.Services.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\obj\Debug\net7.0\SocialMedia.Services.pdb
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Services\obj\Debug\net7.0\ref\SocialMedia.Services.dll

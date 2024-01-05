@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Services\\SocialMedia.Services.csproj": {}
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Services\\SocialMedia.Services.csproj": {}
   },
   "projects": {
-    "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\SocialMedia.Data.csproj": {
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\SocialMedia.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\SocialMedia.Data.csproj",
+        "projectUniqueName": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\SocialMedia.Data.csproj",
         "projectName": "SocialMedia.Data",
-        "projectPath": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\SocialMedia.Data.csproj",
-        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
-        "outputPath": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\obj\\",
+        "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\SocialMedia.Data.csproj",
+        "packagesPath": "C:\\Users\\riosr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\riosr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -67,17 +67,17 @@
         }
       }
     },
-    "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Models\\SocialMedia.Models.csproj": {
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Models\\SocialMedia.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Models\\SocialMedia.Models.csproj",
+        "projectUniqueName": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Models\\SocialMedia.Models.csproj",
         "projectName": "SocialMedia.Models",
-        "projectPath": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Models\\SocialMedia.Models.csproj",
-        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
-        "outputPath": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Models\\obj\\",
+        "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Models\\SocialMedia.Models.csproj",
+        "packagesPath": "C:\\Users\\riosr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\riosr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\SocialMedia.Data.csproj": {
-                "projectPath": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\SocialMedia.Data.csproj"
+              "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\SocialMedia.Data.csproj": {
+                "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\SocialMedia.Data.csproj"
               }
             }
           }
@@ -124,17 +124,17 @@
         }
       }
     },
-    "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Services\\SocialMedia.Services.csproj": {
+    "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Services\\SocialMedia.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Services\\SocialMedia.Services.csproj",
+        "projectUniqueName": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Services\\SocialMedia.Services.csproj",
         "projectName": "SocialMedia.Services",
-        "projectPath": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Services\\SocialMedia.Services.csproj",
-        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
-        "outputPath": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Services\\obj\\",
+        "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Services\\SocialMedia.Services.csproj",
+        "packagesPath": "C:\\Users\\riosr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\riosr\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -146,11 +146,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\SocialMedia.Data.csproj": {
-                "projectPath": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\SocialMedia.Data.csproj"
+              "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\SocialMedia.Data.csproj": {
+                "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\SocialMedia.Data.csproj"
               },
-              "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Models\\SocialMedia.Models.csproj": {
-                "projectPath": "c:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Models\\SocialMedia.Models.csproj"
+              "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Models\\SocialMedia.Models.csproj": {
+                "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Models\\SocialMedia.Models.csproj"
               }
             }
           }

@@ -1,0 +1,12 @@
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\bin\Debug\net7.0\SocialMedia.Data.deps.json
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\bin\Debug\net7.0\SocialMedia.Data.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\bin\Debug\net7.0\SocialMedia.Data.pdb
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\obj\Debug\net7.0\SocialMedia.Data.csproj.AssemblyReference.cache
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\obj\Debug\net7.0\SocialMedia.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\obj\Debug\net7.0\SocialMedia.Data.AssemblyInfoInputs.cache
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\obj\Debug\net7.0\SocialMedia.Data.AssemblyInfo.cs
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\obj\Debug\net7.0\SocialMedia.Data.csproj.CoreCompileInputs.cache
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\obj\Debug\net7.0\SocialMedia.Data.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\obj\Debug\net7.0\refint\SocialMedia.Data.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\obj\Debug\net7.0\SocialMedia.Data.pdb
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Data\obj\Debug\net7.0\ref\SocialMedia.Data.dll

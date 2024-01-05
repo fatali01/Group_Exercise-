@@ -1,0 +1,15 @@
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\bin\Debug\net7.0\SocialMedia.Models.deps.json
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\bin\Debug\net7.0\SocialMedia.Models.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\bin\Debug\net7.0\SocialMedia.Models.pdb
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\bin\Debug\net7.0\SocialMedia.Data.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\bin\Debug\net7.0\SocialMedia.Data.pdb
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\obj\Debug\net7.0\SocialMedia.Models.csproj.AssemblyReference.cache
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\obj\Debug\net7.0\SocialMedia.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\obj\Debug\net7.0\SocialMedia.Models.AssemblyInfoInputs.cache
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\obj\Debug\net7.0\SocialMedia.Models.AssemblyInfo.cs
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\obj\Debug\net7.0\SocialMedia.Models.csproj.CoreCompileInputs.cache
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\obj\Debug\net7.0\SocialMedia.Models.csproj.CopyComplete
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\obj\Debug\net7.0\SocialMedia.Models.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\obj\Debug\net7.0\refint\SocialMedia.Models.dll
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\obj\Debug\net7.0\SocialMedia.Models.pdb
+C:\Users\riosr\OneDrive\ElevenFifty_Projects_BlueBadge_177\Group_Exercise-\SocialMedia.Models\obj\Debug\net7.0\ref\SocialMedia.Models.dll

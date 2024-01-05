@@ -3353,19 +3353,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\13179\\.nuget\\packages\\": {}
+    "C:\\Users\\riosr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\SocialMedia.Data.csproj",
+      "projectUniqueName": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\SocialMedia.Data.csproj",
       "projectName": "SocialMedia.Data",
-      "projectPath": "C:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\SocialMedia.Data.csproj",
-      "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
-      "outputPath": "C:\\ElevenFiftyBlueBadge_New\\TimedGroupExercise\\SocialMedia.Data\\obj\\",
+      "projectPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\SocialMedia.Data.csproj",
+      "packagesPath": "C:\\Users\\riosr\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\riosr\\OneDrive\\ElevenFifty_Projects_BlueBadge_177\\Group_Exercise-\\SocialMedia.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\riosr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
